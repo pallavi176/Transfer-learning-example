@@ -1,5 +1,5 @@
-# generic-python-project-template
-generic-python-project-template
+# Transfer-learning-example
+Transfer-learning-example
 
 ## STEPS -
 
